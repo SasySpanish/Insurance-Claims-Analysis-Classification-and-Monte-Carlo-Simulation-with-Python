@@ -2,8 +2,6 @@ This folder contains the Python scripts used to perform the full **Insurance Cla
 
 ---
 
-## Files Overview
-
 ### `main.py`
 **Purpose:**  
 Performs the complete analysis and visualization pipeline directly in Python.

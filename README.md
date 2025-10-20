@@ -69,7 +69,7 @@ It includes demographic and socioeconomic variables along with the claim amount:
 
 ## Outputs
 
-Running the main script (`mainhtml.py`) generates a full **[HTML report](results/Insurance_Claims_Full_Report.html)** with:
+Running the main script (`mainhtml.py`) generates a full **[HTML report](https://sasyspanish.github.io/Insurance-Claims-Analysis-Classification-and-Monte-Carlo-Simulation-with-Python/results/Insurance_Claims_Full_Report.html)** with:
 - Interactive visualizations,
 - Cluster profiles,
 - Feature importance plots,

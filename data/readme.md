@@ -1,8 +1,3 @@
-# Insurance Claims and Policy Data
-
-This folder contains the dataset used for the project **Insurance Claims Analytics**, focused on understanding the drivers of claim amounts and assessing risk patterns among policyholders.
-
----
 
 ## Dataset Overview
 

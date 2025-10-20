@@ -1,0 +1,6 @@
+,Claim_Amount,Claim_Amount,Claim_Amount,Age,Income,log_Claim_Amount
+,count,mean,median,mean,mean,mean
+cluster,,,,,,
+0,6220,8539.03,5776.5,51.67,162614.34,8.59
+1,6156,8535.95,5764.0,51.5,164460.4,8.58
+2,624,22040.64,7730.5,50.46,125737.43,9.13

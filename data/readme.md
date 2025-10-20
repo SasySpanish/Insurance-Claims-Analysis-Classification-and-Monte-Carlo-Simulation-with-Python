@@ -14,13 +14,13 @@ It is primarily designed for **predictive modeling**, **risk assessment**, and *
 
 | Variable | Type | Description | Example / Range |
 |-----------|-------|--------------|----------------|
-| `Age` | Numerical | Age of the policyholder. | Min: ~18, Max: ~79 |
+| `Age` | Numerical | Age of the policyholder. | Min: ~18 , Max: ~79 |
 | `Gender` | Categorical | Gender of the policyholder. | `Male`, `Female` |
-| `Income` | Numerical | Annual income of the policyholder. | Min: ~5000 – Max: ~404000 |
-| `Marital_Status` | Categorical | Marital status of the policyholder. | `Single`, `Married`|
-| `Education` | Categorical | Education level of the policyholder. | `Bachelor`, `Master`, `PhD`|
-| `Occupation` | Categorical | Occupation type or employment category. | `Engineer`, `CEO`, `Teacher`, `Waiter`, `Doctor`|
-| `Claim_Amount` | Numerical | Amount claimed by the policyholder in currency units. | Min: 104 – Max: ~99800 |
+| `Income` | Numerical | Annual income of the policyholder. | Min: ~5,000 – Max: ~404,000 |
+| `Marital_Status` | Categorical | Marital status of the policyholder. | `Single`, `Married` |
+| `Education` | Categorical | Education level of the policyholder. | `Bachelor`, `Master`, `PhD` |
+| `Occupation` | Categorical | Occupation type or employment category. | `Engineer`, `CEO`, `Teacher`, `Waiter`, `Doctor` |
+| `Claim_Amount` | Numerical | Amount claimed by the policyholder in currency units. | Min: 104 – Max: ~99,800 |
 
 ---
 

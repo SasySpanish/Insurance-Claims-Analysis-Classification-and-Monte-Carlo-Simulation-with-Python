@@ -1,5 +1,3 @@
-# `src/` – Analysis Scripts
-
 This folder contains the Python scripts used to perform the full **Insurance Claims Analytics** workflow — from raw data cleaning to advanced modeling and risk simulation.
 
 ---
@@ -40,5 +38,5 @@ Runs the same full workflow as `main.py`, but **automatically generates an HTML 
   - Monte Carlo loss simulation  
 - Generates a standalone, shareable HTML report
 
-**Output file:**  
+**Output file:** `reports/Insurance_Claims_Full_Report.html`
 

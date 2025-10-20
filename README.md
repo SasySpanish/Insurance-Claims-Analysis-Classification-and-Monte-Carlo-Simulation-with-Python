@@ -17,7 +17,7 @@ The aim is to simulate a **real-world insurance analytics workflow**, starting f
 
 ## Dataset Description
 
-The dataset (`insurance_dataset.csv`) contains around **13,000 claim-level observations**, each representing an **individual insurance claim**, not full policies.  
+The [dataset](data/readme.md) (`insurance_dataset.csv`) contains around **13,000 claim-level observations**, each representing an **individual insurance claim**, not full policies.  
 It includes demographic and socioeconomic variables along with the claim amount:
 
 | Column | Description |
@@ -69,7 +69,7 @@ It includes demographic and socioeconomic variables along with the claim amount:
 
 ## Outputs
 
-Running the main script (`mainhtml.py`) generates a full **HTML report** with:
+Running the main script (`mainhtml.py`) generates a full **[HTML report](results/Insurance_Claims_Full_Report.html)** with:
 - Interactive visualizations,
 - Cluster profiles,
 - Feature importance plots,
